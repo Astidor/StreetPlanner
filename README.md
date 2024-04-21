@@ -33,3 +33,4 @@ In addition to map planning features, StreetPlanner also simulates vehicular tra
 ## Getting Started:
 
 To get started with StreetPlanner, simply clone the repository and build the application using a C++ compiler and the Qt framework.
+![Simulator](https://github.com/Astidor/StreetPlanner/assets/44700476/8c61e6ce-b252-4fd2-bd0a-9883d5a47a9e)
